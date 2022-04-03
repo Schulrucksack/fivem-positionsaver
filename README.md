@@ -6,4 +6,8 @@ Requirements:
 mysql-async
 
 This Script saves the last Position of a Player every 2 Seconds
-Only tested on ESX Legacy & MySQL 10.7.3 MariaDB
+
+
+
+
+!!! Only tested on ESX Legacy & MySQL 10.7.3 MariaDB !!!
